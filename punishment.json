@@ -1,0 +1,12 @@
+{
+  "shortPunishments": [
+    "Short Punishment 1",
+    "Short Punishment 2",
+    "Short Punishment 3"
+  ],
+  "longPunishments": [
+    "Long Punishment A",
+    "Long Punishment B",
+    "Long Punishment C"
+  ]
+}
