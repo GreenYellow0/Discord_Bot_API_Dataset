@@ -1,17 +1,64 @@
 {
-  "shortPunishments": [
-    "Use nipple clamps for 5 minutes",
-    "Use nipple clamps for 8 minutes",
-    "Use nipple clamps for 10 minutes",
-    "Butt plug for 5 minutes",
-    "Butt plug for 10 minutes",
-    "Butt plug for 15 minutes"
-  ],
-  "longPunishments": [
-    "Use nipple clamps for 20 minutes",
-    "Use nipple clamps for 30 minutes",
-    "Butt plug for 20 minutes",
-    "Butt plug for 30 minutes",
-    "Butt plug for 60 minutes"
-  ]
+  "punishments": {
+    "CBT": {
+      "short": [
+        "CBT Short Punishment 1",
+        "CBT Short Punishment 2"
+      ],
+      "long": [
+        "CBT Long Punishment 1",
+        "CBT Long Punishment 2"
+      ]
+    },
+    "Humiliation": {
+      "short": [
+        "Humiliation Short Punishment 1",
+        "Humiliation Short Punishment 2"
+      ],
+      "long": [
+        "Humiliation Long Punishment 1",
+        "Humiliation Long Punishment 2"
+      ]
+    },
+    "Edging": {
+      "short": [
+        "Edging Short Punishment 1",
+        "Edging Short Punishment 2"
+      ],
+      "long": [
+        "Edging Long Punishment 1",
+        "Edging Long Punishment 2"
+      ]
+    },
+    "Pain": {
+      "short": [
+        "Pain Short Punishment 1",
+        "Pain Short Punishment 2"
+      ],
+      "long": [
+        "Pain Long Punishment 1",
+        "Pain Long Punishment 2"
+      ]
+    },
+    "Anal": {
+      "short": [
+        "Anal Short Punishment 1",
+        "Anal Short Punishment 2"
+      ],
+      "long": [
+        "Anal Long Punishment 1",
+        "Anal Long Punishment 2"
+      ]
+    },
+    "Chastity": {
+      "short": [
+        "Chastity Short Punishment 1",
+        "Chastity Short Punishment 2"
+      ],
+      "long": [
+        "Chastity Long Punishment 1",
+        "Chastity Long Punishment 2"
+      ]
+    }
+  }
 }
